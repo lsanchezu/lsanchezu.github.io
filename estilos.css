@@ -1,0 +1,33 @@
+body {
+	border-right: 4px dashed;
+border-right-color: #FFFF00;
+    width: 50%;
+    height: 100%;
+    margin: 0px auto 0px auto;
+    font-family: 'Times New Roman', Times, serif;
+	
+}
+
+.address1 {
+    text-align: end;
+}
+
+.address2 {
+    text-align: initial;
+}
+
+span {
+    font-weight: bold;
+}
+
+p {
+    text-align: justify;
+}
+
+.text1 {
+    margin-left: 40px;
+}
+
+.spanp {
+    font-size: 12px;
+}
